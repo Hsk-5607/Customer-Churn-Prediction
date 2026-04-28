@@ -70,7 +70,7 @@ model = train_model()
 with st.sidebar:
     st.title("✈️ Churn Predictor")
     st.markdown("**Course:** B.Tech – Gen AI (2nd Semester)")
-    st.markdown("**Student:** Rishabh Bheda")
+    st.markdown("**Student:** Harry Sijo")
     st.markdown("**Model:** Random Forest (100 trees)")
     st.divider()
     st.markdown("### Model Info")
@@ -223,7 +223,7 @@ st.divider()
 st.markdown(
     "<div style='text-align:center;color:#64748B;font-size:13px'>"
     "✈️ Customer Churn Predictor | B.Tech Gen AI Final Project | "
-    "Rishabh Bheda | Built with Streamlit + scikit-learn"
+    "Harry Sijo | Built with Streamlit + scikit-learn"
     "</div>",
     unsafe_allow_html=True
 )
